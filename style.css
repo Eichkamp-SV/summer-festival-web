@@ -128,6 +128,11 @@ html, body {
     margin-right: 15px;
 }
 
+.content .main-content .lineup li.empty:before{
+    content : ' ';
+    margin-right: 15px;
+}
+
 .content .main-content .stay-tuned {
     font-size: 50px;
     margin-left: 120px;
