@@ -54,7 +54,7 @@ html, body {
 
 .content .left-side {
     transform: rotate(-90deg) translate3d(0,-50%,0);
-    left: -286px;
+    left: -345px;
 }
 
 .content .right-side {
@@ -185,6 +185,13 @@ html, body {
     .content .main-content .stay-tuned {
         font-size: 21px;
         margin-left: 0;
+    }
+
+    .content .left-side {
+        left: -285px;
+    }
+    .content .left-side ul {
+        font-size: 20pt
     }
 }
 
